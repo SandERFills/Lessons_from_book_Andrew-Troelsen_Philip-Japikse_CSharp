@@ -1,0 +1,7 @@
+C:\Users\salag\source\repos\SimpleCsharpLesson1\SimpleCsharpLesson1\bin\Debug\SimpleCsharpLesson1.exe.config
+C:\Users\salag\source\repos\SimpleCsharpLesson1\SimpleCsharpLesson1\bin\Debug\SimpleCsharpLesson1.exe
+C:\Users\salag\source\repos\SimpleCsharpLesson1\SimpleCsharpLesson1\bin\Debug\SimpleCsharpLesson1.pdb
+C:\Users\salag\source\repos\SimpleCsharpLesson1\SimpleCsharpLesson1\obj\Debug\SimpleCsharpLesson1.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\SimpleCsharpLesson1\SimpleCsharpLesson1\obj\Debug\SimpleCsharpLesson1.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\SimpleCsharpLesson1\SimpleCsharpLesson1\obj\Debug\SimpleCsharpLesson1.exe
+C:\Users\salag\source\repos\SimpleCsharpLesson1\SimpleCsharpLesson1\obj\Debug\SimpleCsharpLesson1.pdb
