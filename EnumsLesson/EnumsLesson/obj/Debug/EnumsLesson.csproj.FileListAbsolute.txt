@@ -1,0 +1,7 @@
+C:\Users\salag\source\repos\EnumsLesson\EnumsLesson\bin\Debug\EnumsLesson.exe.config
+C:\Users\salag\source\repos\EnumsLesson\EnumsLesson\bin\Debug\EnumsLesson.exe
+C:\Users\salag\source\repos\EnumsLesson\EnumsLesson\bin\Debug\EnumsLesson.pdb
+C:\Users\salag\source\repos\EnumsLesson\EnumsLesson\obj\Debug\EnumsLesson.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\EnumsLesson\EnumsLesson\obj\Debug\EnumsLesson.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\EnumsLesson\EnumsLesson\obj\Debug\EnumsLesson.exe
+C:\Users\salag\source\repos\EnumsLesson\EnumsLesson\obj\Debug\EnumsLesson.pdb
