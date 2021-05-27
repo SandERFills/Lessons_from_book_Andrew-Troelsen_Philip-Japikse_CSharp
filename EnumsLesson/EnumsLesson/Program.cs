@@ -33,7 +33,26 @@ namespace EnumsLesson
             Console.WriteLine("Получем тип другим способом {0}",Enum.GetUnderlyingType(typeof(EnTypeCurrer)));
             Console.WriteLine("Получаем строковое значение переменной enum: "+enTypeCurrer.ToString());
             Console.WriteLine("Get digit value of "+enTypeCurrer.ToString()+"="+(double)enTypeCurrer);
+            EnTypeCurrer enTypeCurrer1 = EnTypeCurrer.Grint;
+            DayOfWeek dayOfWeek = DayOfWeek.Monday;
+            ConsoleColor consoleColor = ConsoleColor.White;
+            EnumTypes(enTypeCurrer1);
+            EnumTypes(dayOfWeek);
+            EnumTypes(consoleColor);
             Console.ReadLine();
+
+        }
+        static void EnumTypes(System.Enum e)
+        {
+            Console.WriteLine("=> Information about{0}", e.GetType().Name);
+            Console.WriteLine("Underlying storage informaion: {0}", Enum.GetUnderlyingType(e.GetType()));
+            //ПОлучаем все пары имя-значение
+            Array enumData = Enum.GetValues(e.GetType());
+            Console.WriteLine("This enum has {0} values",enumData.Length);
+            for (int i = 0; i < enumData.Length; i++)
+            {
+                Console.WriteLine("Имя {0} = значение {0:D}",enumData.GetValue(i));
+            }
 
         }
 
