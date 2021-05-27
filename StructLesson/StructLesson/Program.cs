@@ -34,9 +34,8 @@ namespace StructLesson
         static void Main(string[] args)
         {
             Console.WriteLine("*****First look at struct*****");
-            Point point;
-            point.X = 12;
-            point.Y = 20;
+            Point point=new Point(12,32);
+            
             point.Increment();
             point.Display();
             point.Decrement();
