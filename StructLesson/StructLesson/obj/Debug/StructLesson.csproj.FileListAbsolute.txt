@@ -1,0 +1,7 @@
+C:\Users\salag\source\repos\StructLesson\StructLesson\bin\Debug\StructLesson.exe.config
+C:\Users\salag\source\repos\StructLesson\StructLesson\bin\Debug\StructLesson.exe
+C:\Users\salag\source\repos\StructLesson\StructLesson\bin\Debug\StructLesson.pdb
+C:\Users\salag\source\repos\StructLesson\StructLesson\obj\Debug\StructLesson.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\StructLesson\StructLesson\obj\Debug\StructLesson.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\StructLesson\StructLesson\obj\Debug\StructLesson.exe
+C:\Users\salag\source\repos\StructLesson\StructLesson\obj\Debug\StructLesson.pdb
