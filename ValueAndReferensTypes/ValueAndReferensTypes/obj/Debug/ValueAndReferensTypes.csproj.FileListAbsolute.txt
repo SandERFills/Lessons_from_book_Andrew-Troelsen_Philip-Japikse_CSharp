@@ -1,0 +1,7 @@
+C:\Users\salag\source\repos\ValueAndReferensTypes\ValueAndReferensTypes\bin\Debug\ValueAndReferensTypes.exe.config
+C:\Users\salag\source\repos\ValueAndReferensTypes\ValueAndReferensTypes\bin\Debug\ValueAndReferensTypes.exe
+C:\Users\salag\source\repos\ValueAndReferensTypes\ValueAndReferensTypes\bin\Debug\ValueAndReferensTypes.pdb
+C:\Users\salag\source\repos\ValueAndReferensTypes\ValueAndReferensTypes\obj\Debug\ValueAndReferensTypes.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\ValueAndReferensTypes\ValueAndReferensTypes\obj\Debug\ValueAndReferensTypes.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\ValueAndReferensTypes\ValueAndReferensTypes\obj\Debug\ValueAndReferensTypes.exe
+C:\Users\salag\source\repos\ValueAndReferensTypes\ValueAndReferensTypes\obj\Debug\ValueAndReferensTypes.pdb
