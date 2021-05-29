@@ -4,3 +4,4 @@ C:\Users\salag\source\repos\ValueAndReferensTypes\RefAndValueType\bin\Debug\RefA
 C:\Users\salag\source\repos\ValueAndReferensTypes\RefAndValueType\obj\Debug\RefAndValueType.csproj.CoreCompileInputs.cache
 C:\Users\salag\source\repos\ValueAndReferensTypes\RefAndValueType\obj\Debug\RefAndValueType.exe
 C:\Users\salag\source\repos\ValueAndReferensTypes\RefAndValueType\obj\Debug\RefAndValueType.pdb
+C:\Users\salag\source\repos\ValueAndReferensTypes\RefAndValueType\obj\Debug\RefAndValueType.csprojAssemblyReference.cache

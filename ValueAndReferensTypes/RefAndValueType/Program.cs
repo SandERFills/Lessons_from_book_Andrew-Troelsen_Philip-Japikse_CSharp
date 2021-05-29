@@ -23,16 +23,16 @@ namespace RefAndValueType
                 Console.WriteLine("Age{0},Name{1}",age ,name);
             }
         }
-        static void SwapMeth( ref Person e)
+        static void SwapMeth( ref Person e)//изменение переменной по ссылке
         {
-            e = new Person("AssHole", 12);
+            e = new Person(" AssHole", 12);
         }
         static void Main(string[] args)
         {
-            Person person = new Person("Frigail", 22);
+            Person person = new Person(" Frigail", 22);
             person.Display();
             Console.WriteLine();
-            SwapMeth(ref person);
+            SwapMeth(ref person);//передача переменной по ссылке
             person.Display();
             Console.ReadLine();
         }
