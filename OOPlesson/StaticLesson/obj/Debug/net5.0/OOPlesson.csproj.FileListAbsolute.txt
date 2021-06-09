@@ -1,0 +1,16 @@
+D:\babich\OOPlesson\bin\Debug\net5.0\OOPlesson.exe
+D:\babich\OOPlesson\bin\Debug\net5.0\OOPlesson.deps.json
+D:\babich\OOPlesson\bin\Debug\net5.0\OOPlesson.runtimeconfig.json
+D:\babich\OOPlesson\bin\Debug\net5.0\OOPlesson.runtimeconfig.dev.json
+D:\babich\OOPlesson\bin\Debug\net5.0\OOPlesson.dll
+D:\babich\OOPlesson\bin\Debug\net5.0\ref\OOPlesson.dll
+D:\babich\OOPlesson\bin\Debug\net5.0\OOPlesson.pdb
+D:\babich\OOPlesson\obj\Debug\net5.0\OOPlesson.csproj.AssemblyReference.cache
+D:\babich\OOPlesson\obj\Debug\net5.0\OOPlesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\babich\OOPlesson\obj\Debug\net5.0\OOPlesson.AssemblyInfoInputs.cache
+D:\babich\OOPlesson\obj\Debug\net5.0\OOPlesson.AssemblyInfo.cs
+D:\babich\OOPlesson\obj\Debug\net5.0\OOPlesson.csproj.CoreCompileInputs.cache
+D:\babich\OOPlesson\obj\Debug\net5.0\OOPlesson.dll
+D:\babich\OOPlesson\obj\Debug\net5.0\ref\OOPlesson.dll
+D:\babich\OOPlesson\obj\Debug\net5.0\OOPlesson.pdb
+D:\babich\OOPlesson\obj\Debug\net5.0\OOPlesson.genruntimeconfig.cache
