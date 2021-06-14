@@ -1,0 +1,16 @@
+D:\babich\OOPlesson\StaticClass\StaticClassLesson\bin\Debug\net5.0\StaticClassLesson.exe
+D:\babich\OOPlesson\StaticClass\StaticClassLesson\bin\Debug\net5.0\StaticClassLesson.deps.json
+D:\babich\OOPlesson\StaticClass\StaticClassLesson\bin\Debug\net5.0\StaticClassLesson.runtimeconfig.json
+D:\babich\OOPlesson\StaticClass\StaticClassLesson\bin\Debug\net5.0\StaticClassLesson.runtimeconfig.dev.json
+D:\babich\OOPlesson\StaticClass\StaticClassLesson\bin\Debug\net5.0\StaticClassLesson.dll
+D:\babich\OOPlesson\StaticClass\StaticClassLesson\bin\Debug\net5.0\ref\StaticClassLesson.dll
+D:\babich\OOPlesson\StaticClass\StaticClassLesson\bin\Debug\net5.0\StaticClassLesson.pdb
+D:\babich\OOPlesson\StaticClass\StaticClassLesson\obj\Debug\net5.0\StaticClassLesson.csproj.AssemblyReference.cache
+D:\babich\OOPlesson\StaticClass\StaticClassLesson\obj\Debug\net5.0\StaticClassLesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\babich\OOPlesson\StaticClass\StaticClassLesson\obj\Debug\net5.0\StaticClassLesson.AssemblyInfoInputs.cache
+D:\babich\OOPlesson\StaticClass\StaticClassLesson\obj\Debug\net5.0\StaticClassLesson.AssemblyInfo.cs
+D:\babich\OOPlesson\StaticClass\StaticClassLesson\obj\Debug\net5.0\StaticClassLesson.csproj.CoreCompileInputs.cache
+D:\babich\OOPlesson\StaticClass\StaticClassLesson\obj\Debug\net5.0\StaticClassLesson.dll
+D:\babich\OOPlesson\StaticClass\StaticClassLesson\obj\Debug\net5.0\ref\StaticClassLesson.dll
+D:\babich\OOPlesson\StaticClass\StaticClassLesson\obj\Debug\net5.0\StaticClassLesson.pdb
+D:\babich\OOPlesson\StaticClass\StaticClassLesson\obj\Debug\net5.0\StaticClassLesson.genruntimeconfig.cache

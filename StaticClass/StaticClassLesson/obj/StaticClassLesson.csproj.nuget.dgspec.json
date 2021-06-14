@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\babich\\OOPlesson\\StaticClass\\StaticClassLesson\\StaticClassLesson.csproj": {}
+  },
+  "projects": {
+    "D:\\babich\\OOPlesson\\StaticClass\\StaticClassLesson\\StaticClassLesson.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\babich\\OOPlesson\\StaticClass\\StaticClassLesson\\StaticClassLesson.csproj",
+        "projectName": "StaticClassLesson",
+        "projectPath": "D:\\babich\\OOPlesson\\StaticClass\\StaticClassLesson\\StaticClassLesson.csproj",
+        "packagesPath": "C:\\Users\\babich.vr\\.nuget\\packages\\",
+        "outputPath": "D:\\babich\\OOPlesson\\StaticClass\\StaticClassLesson\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\babich.vr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
