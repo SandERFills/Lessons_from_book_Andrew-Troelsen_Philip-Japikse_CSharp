@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\babich.vr\\.nuget\\packages\\": {}
+    "C:\\Users\\salag\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\babich\\OOPlesson\\EmployeeApp\\EmployeeApp.csproj",
+      "projectUniqueName": "C:\\Users\\salag\\source\\repos\\OOPlessons\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\EmployeeApp\\EmployeeApp.csproj",
       "projectName": "EmployeeApp",
-      "projectPath": "D:\\babich\\OOPlesson\\EmployeeApp\\EmployeeApp.csproj",
-      "packagesPath": "C:\\Users\\babich.vr\\.nuget\\packages\\",
-      "outputPath": "D:\\babich\\OOPlesson\\EmployeeApp\\obj\\",
+      "projectPath": "C:\\Users\\salag\\source\\repos\\OOPlessons\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\EmployeeApp\\EmployeeApp.csproj",
+      "packagesPath": "C:\\Users\\salag\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\salag\\source\\repos\\OOPlessons\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\EmployeeApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\babich.vr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\salag\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

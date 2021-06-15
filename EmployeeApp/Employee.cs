@@ -29,14 +29,22 @@ currPay=pay;
         public void GiveBonus(float amount){
             currPay+=amount;
         }
-        public string GetName(){
-            return empName;
-        }
-        public void SetName(string name){
-            if(name.Length >15)
-                Console.WriteLine("Error Nma length")
+        
+        public string Name
+        {
+            get { return empName; }
+            set { 
+                if (value.Length>15)
+                {
+                    Console.WriteLine("Lenght Error");
+                }
                 else
-                empName=name;
+                {
+                empName = value;    
+                }
+                 
+                }
         }
+        
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\salag\source\repos\OOPlessons\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe.config
+C:\Users\salag\source\repos\OOPlessons\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe
+C:\Users\salag\source\repos\OOPlessons\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.pdb
+C:\Users\salag\source\repos\OOPlessons\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\OOPlessons\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\OOPlessons\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.exe
+C:\Users\salag\source\repos\OOPlessons\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.pdb
