@@ -1,0 +1,7 @@
+C:\Users\salag\source\repos\OOPlessons\OOPlessons\bin\Debug\OOPlessons.exe.config
+C:\Users\salag\source\repos\OOPlessons\OOPlessons\bin\Debug\OOPlessons.exe
+C:\Users\salag\source\repos\OOPlessons\OOPlessons\bin\Debug\OOPlessons.pdb
+C:\Users\salag\source\repos\OOPlessons\OOPlessons\obj\Debug\OOPlessons.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\OOPlessons\OOPlessons\obj\Debug\OOPlessons.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\OOPlessons\OOPlessons\obj\Debug\OOPlessons.exe
+C:\Users\salag\source\repos\OOPlessons\OOPlessons\obj\Debug\OOPlessons.pdb
