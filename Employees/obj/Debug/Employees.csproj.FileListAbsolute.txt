@@ -1,0 +1,7 @@
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\Employees\bin\Debug\Employees.exe.config
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\Employees\bin\Debug\Employees.exe
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\Employees\bin\Debug\Employees.pdb
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\Employees\obj\Debug\Employees.csproj.AssemblyReference.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\Employees\obj\Debug\Employees.exe
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\Employees\obj\Debug\Employees.pdb

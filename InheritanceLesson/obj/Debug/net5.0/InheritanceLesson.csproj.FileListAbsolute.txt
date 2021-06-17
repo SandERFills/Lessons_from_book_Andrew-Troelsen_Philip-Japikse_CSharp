@@ -1,0 +1,16 @@
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InheritanceLesson\obj\Debug\net5.0\InheritanceLesson.csproj.AssemblyReference.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InheritanceLesson\obj\Debug\net5.0\InheritanceLesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InheritanceLesson\obj\Debug\net5.0\InheritanceLesson.AssemblyInfoInputs.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InheritanceLesson\obj\Debug\net5.0\InheritanceLesson.AssemblyInfo.cs
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InheritanceLesson\obj\Debug\net5.0\InheritanceLesson.csproj.CoreCompileInputs.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InheritanceLesson\bin\Debug\net5.0\InheritanceLesson.exe
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InheritanceLesson\bin\Debug\net5.0\InheritanceLesson.deps.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InheritanceLesson\bin\Debug\net5.0\InheritanceLesson.runtimeconfig.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InheritanceLesson\bin\Debug\net5.0\InheritanceLesson.runtimeconfig.dev.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InheritanceLesson\bin\Debug\net5.0\InheritanceLesson.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InheritanceLesson\bin\Debug\net5.0\ref\InheritanceLesson.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InheritanceLesson\bin\Debug\net5.0\InheritanceLesson.pdb
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InheritanceLesson\obj\Debug\net5.0\InheritanceLesson.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InheritanceLesson\obj\Debug\net5.0\ref\InheritanceLesson.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InheritanceLesson\obj\Debug\net5.0\InheritanceLesson.pdb
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InheritanceLesson\obj\Debug\net5.0\InheritanceLesson.genruntimeconfig.cache
