@@ -4,7 +4,7 @@ namespace InheritanceLesson
 {
     class Car
     {
-        private readonly int maxSpeed;
+        public readonly int maxSpeed;
         private int currSpeed;
         public Car(int max){
             maxSpeed=max;
@@ -16,7 +16,8 @@ namespace InheritanceLesson
             get{return currSpeed;}
             set{
                 currSpeed=value;
-                if(currSpeed>maxSpeed){currSpeed=maxSpeed;}
+                if(currSpeed>maxSpeed){
+                    currSpeed=maxSpeed;}
             }
         }
 

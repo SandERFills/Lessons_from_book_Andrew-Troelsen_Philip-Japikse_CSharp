@@ -7,7 +7,25 @@ namespace Employees
         public Employee(string name, int age, int id, float pay,string ssn) : this(name, age, id, pay) {
             empSsn = ssn;
         }
+        public class BenefitLevel
+        {
+            public enum BenefitEnum 
+            {
+                Silver=2,
+                Gold=5,
+                Platinum=6
 
+            }
+        }
+        public BenefitLevel benefitLevel = new BenefitLevel();
+        //public BenefitLevel level
+        //{
+        //    get { return level; }
+        //    set
+        //    {
+        //        level = value;
+        //    }
+        //}
 
         //public string SocialSecurityNumber
         //{

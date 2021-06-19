@@ -11,11 +11,25 @@ namespace Employees
     /// </summary>
    partial class Employee
     {
-        private string empName;
-        private int empID;
-        private float currPay;
-        private int empAge;
-        private readonly string empSsn;
+        protected string empName;
+        protected int empID;
+        protected float currPay;
+        protected int empAge;
+        protected readonly string empSsn;
+        protected BenefitPerson benefitPerson = new BenefitPerson();
+        public double GetBenefirBonus()
+        {
+            return benefitPerson.ComputeBenefitPay();
+        }
+        
+
+        public BenefitPerson benefit
+        {
+            get { return benefitPerson; }
+            set { benefitPerson = value; }
+        }
+
+
         public Employee() { }
         public Employee(string name, int id, float pay) : this(name, 0, id, pay) { }
         
