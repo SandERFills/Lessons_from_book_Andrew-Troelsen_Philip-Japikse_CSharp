@@ -5,3 +5,10 @@ D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\Employees\obj\
 D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
 D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\Employees\obj\Debug\Employees.exe
 D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\Employees\obj\Debug\Employees.pdb
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\Employees\bin\Debug\Employees.exe.config
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\Employees\bin\Debug\Employees.exe
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\Employees\bin\Debug\Employees.pdb
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\Employees\obj\Debug\Employees.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\Employees\obj\Debug\Employees.exe
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\Employees\obj\Debug\Employees.pdb

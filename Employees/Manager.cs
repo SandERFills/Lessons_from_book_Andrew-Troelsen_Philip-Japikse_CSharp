@@ -21,5 +21,17 @@ namespace Employees
             Pay = currPay;
             
         }
+        public override void GiveBonus(float amount)
+        {
+
+            base.GiveBonus(amount);
+            Random random = new Random();
+            StockOptions = random.Next(500);
+        }
+        public override void DisplayStats()
+        {
+            base.DisplayStats();
+            Console.WriteLine("Number of stocksOption:{0}",StockOptions);
+        }
     }
 }

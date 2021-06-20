@@ -9,7 +9,7 @@ namespace Employees
     /// <summary>
     /// Partial
     /// </summary>
-   partial class Employee
+    abstract partial class Employee
     {
         protected string empName;
         protected int empID;

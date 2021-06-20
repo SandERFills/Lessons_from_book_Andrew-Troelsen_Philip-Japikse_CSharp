@@ -10,16 +10,15 @@ namespace Employees
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("**** The Employee Class Hierarchy*****");
-            SalesPerson salesPerson = new SalesPerson("Sos",23,1123,12.433f,"kurva",123);
-            salesPerson.Age = 23;
-            salesPerson.benefit.ComputeBenefitPay();
-            Employee.BenefitLevel.BenefitEnum platinum =  Employee.BenefitLevel.BenefitEnum.Platinum;
-            //salesPerson.ID = 12332;
-            //salesPerson.Name = "The Who";
-            //salesPerson.SalesNumber = 12;
+            Console.WriteLine("**** The Employee Class Hierarchy and *****");
+            SalesPerson salesPerson = new SalesPerson("Boob", 12, 123442, 23, "POsos1", 123);
+            salesPerson.GiveBonus(123.2f);
             salesPerson.DisplayStats();
+            Manager manager = new Manager("Astofull Mrasish", 32, 222113, 123.2f, "1122-44r5-2", 321);
+            manager.GiveBonus(300);
+            manager.DisplayStats();
             Console.ReadLine();
+            Employee employee = new SalesPerson("Astofull Mrasish", 32, 222113, 123.2f, "1122-44r5-2", 321);
 
         }
     }

@@ -2,7 +2,7 @@ using System;
 
 namespace Employees
 {
-    partial class Employee
+   abstract partial  class Employee
     {
         public Employee(string name, int age, int id, float pay,string ssn) : this(name, age, id, pay) {
             empSsn = ssn;
@@ -52,13 +52,13 @@ namespace Employees
 
 
         
-        public void DisplayStats(){
+        public virtual void DisplayStats(){
             Console.WriteLine("Name: {0}",empName);
             Console.WriteLine("ID: {0}",empID);
             Console.WriteLine("Age : {0}",empAge);
             Console.WriteLine("Pay: {0}",currPay);
         }
-        public void GiveBonus(float amount){
+        public virtual void GiveBonus(float amount){
             currPay+=amount; 
         }
         
