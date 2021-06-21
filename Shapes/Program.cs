@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+// using AnotherNameSpaces.ThreeDCyrcle;
 
 namespace Shapes
 {
@@ -10,10 +11,13 @@ namespace Shapes
     {
         static void Main(string[] args)
         {
-            Hexagon hexagon = new Hexagon("Stivr");
-            hexagon.Draw();
-            Cyrcle cyrcle = new Cyrcle("Who");
-            cyrcle.Draw();
+            Console.WriteLine("***** Fun with Polymorphism *****\n");
+            Shape[] myShapes ={new Hexagon(),new Cyrcle(),new Hexagon("MIK"),new Cyrcle("Benedickt"),new Hexagon("Linda")};
+            //Цикл проходит по всем элементам и взаимодействует с полиморфным интерфейсом
+            foreach(Shape s in myShapes){
+                s.Draw();
+            }
+            ThreeDCyrcle the =new ThreeDCyrcle();
             Console.ReadLine();
         }
     }

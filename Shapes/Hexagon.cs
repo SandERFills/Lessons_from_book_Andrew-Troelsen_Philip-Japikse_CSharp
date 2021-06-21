@@ -8,6 +8,7 @@ namespace Shapes
 {
     class Hexagon : Shape
     {
+        public Hexagon(){}
         public Hexagon(string name) : base(name)
         {
 
