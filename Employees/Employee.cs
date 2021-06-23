@@ -17,6 +17,10 @@ namespace Employees
 
             }
         }
+        public static void GivePromoted(Employee employeer)
+        {
+            Console.WriteLine("{0} has promoted",employeer.Name);
+        } 
         public BenefitLevel benefitLevel = new BenefitLevel();
         //public BenefitLevel level
         //{
