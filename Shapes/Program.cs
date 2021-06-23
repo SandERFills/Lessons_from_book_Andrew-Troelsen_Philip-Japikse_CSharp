@@ -3,10 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-// using AnotherNameSpaces.ThreeDCyrcle;
+
 
 namespace Shapes
 {
+    class THreeDCyrcle:Cyrcle
+	{
+        public new void Draw()
+        {
+            Console.WriteLine("tHIS is 3d Circle");
+        }
+	}
     class Program
     {
         static void Main(string[] args)
@@ -17,7 +24,8 @@ namespace Shapes
             foreach(Shape s in myShapes){
                 s.Draw();
             }
-            ThreeDCyrcle the =new ThreeDCyrcle();
+           THreeDCyrcle hreeDCyrcle =new THreeDCyrcle();
+            hreeDCyrcle.Draw();
             Console.ReadLine();
         }
     }

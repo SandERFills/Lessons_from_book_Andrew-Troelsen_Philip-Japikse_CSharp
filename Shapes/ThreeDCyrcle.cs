@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Shapes
 {
-    class ThreeDCyrcle
+    class DCyrcle
     {
         // public new string PetName{get;set;}
         public  void Draw()
