@@ -20,7 +20,27 @@ namespace Employees
         public static void GivePromoted(Employee employeer)
         {
             Console.WriteLine("{0} has promoted",employeer.Name);
-        } 
+            if (employeer is SalesPerson)
+	            {
+                Console.WriteLine("{0} had sale {1} stuff",employeer.Name,((SalesPerson)employeer).SalesNumber);
+	            }
+            else if(employeer is Manager)
+	            {
+                    Console.WriteLine("{0} had {1} stocks",employeer.Name,((Manager)employeer).StockOptions);    
+	            }
+
+        }
+        public static void SwitchDiscard(Employee emp)
+        {
+            switch (emp)
+	{
+                case SalesPerson s when s.SalesNumber>5:
+                    Console.WriteLine("{0} made {1} sale(s)!", emp.Name, s.SalesNumber);
+                    break;
+		default:
+ break;
+	}
+        }
         public BenefitLevel benefitLevel = new BenefitLevel();
         //public BenefitLevel level
         //{
