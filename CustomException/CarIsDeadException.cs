@@ -7,22 +7,28 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace CustomExceptoin
 {
-    class carIsDeadException : ApplicationException
+    [Serializable]
+    public class ñarlsDeadException : ApplicationException
     {
-        private string messageDetails=String.Empty;
-        public DateTime ErrorTimeStamp{get;set;}
-public string CauseOfError{get;set;}
-public carIsDeadException(){}
-public carIsDeadException(string message,string cause,DateTime time):base(message){
-    // messageDetails=message;
-    CauseOfError=cause;
-    ErrorTimeStamp=time;
+        public ñarlsDeadException() { }
+        public ñarlsDeadException(string message,string cause,DateTime dateTime):base(message) {
+            ErrorTimeStamp = dateTime;
+            CauseOfError = cause;
+        }
+        public ñarlsDeadException(string message) : base(message) { }
+        public ñarlsDeadException(string message, System.Exception inner)
+: base(message, inner) { }
+        protected ñarlsDeadException(
+        System.Runtime.Serialization.SerializationInfo info,
+        System.Runtime.Serialization.StreamingContext context)
+        : base(info, context) { }
+        // Ëşáûå äîïîëíèòåëüíûå ñïåöèàëüíûå ñâîéñòâà, êîíñòğóêòîğû è ÷ëåíû äàííûõ...
+        public DateTime ErrorTimeStamp { get; set; }
+        public string CauseOfError { get; set; }
     }
-    // public override string Message=>$"Car Error Message: {messageDetails}";
-    }
-
 
 
 

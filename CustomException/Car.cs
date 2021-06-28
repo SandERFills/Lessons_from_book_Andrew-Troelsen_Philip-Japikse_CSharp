@@ -10,7 +10,7 @@ namespace CustomExceptoin
     class Car
     {
         //В классе "имеется" экземпляр класса радио,что и отражанет наследование - "имеется"
-        Radio radio = new Radio();
+        readonly Radio radio = new();
         public const int MAX_SPEED = 100;
         public int CurrentSpeed { get; set; }
         public string PetName { get; set; }
@@ -40,7 +40,7 @@ namespace CustomExceptoin
                     CurrentSpeed = 0;
                     carIsDead = true;
                     //throw new Exception($"{PetName} is overheated!");//Кидаем исключение в этом условии и программа закрывается
-                    carIsDeadException e = new carIsDeadException($"{PetName} is overheated!","You have a lead foot",DateTime.Now);//Создаём экземпляр класса ,чтобы обратиться к свойству
+                    сarlsDeadException e = new сarlsDeadException($"{PetName} is overheated!","You have a lead of foot",DateTime.Now);//Создаём экземпляр класса ,чтобы обратиться к свойству
                     e.HelpLink = "http://www.CarsRus.com";
                     //Специальные данные касающиеся исключения
                     // e.Data.Add("TimeStamp", $"The car explosed at {DateTime.Now}");

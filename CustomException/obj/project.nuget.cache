@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "It6gDwjdN9AMWstViVDcf4Tc25q57NHsGHVErBQM9PAIyelCkSd1qBI7zhEYmjQSmHXBmQ0L6FsLQuhEYcB6uw==",
+  "dgSpecHash": "StmHPxq0+Y5BdN5hpWrZmiw0Lgo9pek62SmT6JINaShvINdJ0Ye+vbYAtNg468mEBh8iR8fIYYsgcJLfvghyOg==",
   "success": true,
-  "projectFilePath": "D:\\babich\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\CustomException\\SimpleException.csproj",
+  "projectFilePath": "C:\\Users\\salag\\source\\repos\\OOPlessons\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\CustomException\\SimpleException.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
