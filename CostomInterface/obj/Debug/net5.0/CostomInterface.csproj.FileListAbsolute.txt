@@ -1,0 +1,16 @@
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CostomInterface\bin\Debug\net5.0\CostomInterface.exe
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CostomInterface\bin\Debug\net5.0\CostomInterface.deps.json
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CostomInterface\bin\Debug\net5.0\CostomInterface.runtimeconfig.json
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CostomInterface\bin\Debug\net5.0\CostomInterface.runtimeconfig.dev.json
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CostomInterface\bin\Debug\net5.0\CostomInterface.dll
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CostomInterface\bin\Debug\net5.0\ref\CostomInterface.dll
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CostomInterface\bin\Debug\net5.0\CostomInterface.pdb
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CostomInterface\obj\Debug\net5.0\CostomInterface.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CostomInterface\obj\Debug\net5.0\CostomInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CostomInterface\obj\Debug\net5.0\CostomInterface.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CostomInterface\obj\Debug\net5.0\CostomInterface.AssemblyInfo.cs
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CostomInterface\obj\Debug\net5.0\CostomInterface.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CostomInterface\obj\Debug\net5.0\CostomInterface.dll
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CostomInterface\obj\Debug\net5.0\ref\CostomInterface.dll
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CostomInterface\obj\Debug\net5.0\CostomInterface.pdb
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CostomInterface\obj\Debug\net5.0\CostomInterface.genruntimeconfig.cache
