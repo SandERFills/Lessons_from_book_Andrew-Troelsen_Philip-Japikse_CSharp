@@ -1,0 +1,16 @@
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterFaceNameClash\bin\Debug\net5.0\InterFaceNameClash.exe
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterFaceNameClash\bin\Debug\net5.0\InterFaceNameClash.deps.json
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterFaceNameClash\bin\Debug\net5.0\InterFaceNameClash.runtimeconfig.json
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterFaceNameClash\bin\Debug\net5.0\InterFaceNameClash.runtimeconfig.dev.json
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterFaceNameClash\bin\Debug\net5.0\InterFaceNameClash.dll
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterFaceNameClash\bin\Debug\net5.0\ref\InterFaceNameClash.dll
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterFaceNameClash\bin\Debug\net5.0\InterFaceNameClash.pdb
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterFaceNameClash\obj\Debug\net5.0\InterFaceNameClash.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterFaceNameClash\obj\Debug\net5.0\InterFaceNameClash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterFaceNameClash\obj\Debug\net5.0\InterFaceNameClash.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterFaceNameClash\obj\Debug\net5.0\InterFaceNameClash.AssemblyInfo.cs
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterFaceNameClash\obj\Debug\net5.0\InterFaceNameClash.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterFaceNameClash\obj\Debug\net5.0\InterFaceNameClash.dll
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterFaceNameClash\obj\Debug\net5.0\ref\InterFaceNameClash.dll
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterFaceNameClash\obj\Debug\net5.0\InterFaceNameClash.pdb
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterFaceNameClash\obj\Debug\net5.0\InterFaceNameClash.genruntimeconfig.cache
