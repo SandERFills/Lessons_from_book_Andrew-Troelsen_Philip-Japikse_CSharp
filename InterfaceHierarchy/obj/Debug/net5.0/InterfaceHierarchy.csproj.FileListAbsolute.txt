@@ -1,0 +1,16 @@
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceHierarchy\bin\Debug\net5.0\InterfaceHierarchy.exe
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceHierarchy\bin\Debug\net5.0\InterfaceHierarchy.deps.json
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceHierarchy\bin\Debug\net5.0\InterfaceHierarchy.runtimeconfig.json
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceHierarchy\bin\Debug\net5.0\InterfaceHierarchy.runtimeconfig.dev.json
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceHierarchy\bin\Debug\net5.0\InterfaceHierarchy.dll
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceHierarchy\bin\Debug\net5.0\ref\InterfaceHierarchy.dll
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceHierarchy\bin\Debug\net5.0\InterfaceHierarchy.pdb
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceHierarchy\obj\Debug\net5.0\InterfaceHierarchy.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceHierarchy\obj\Debug\net5.0\InterfaceHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceHierarchy\obj\Debug\net5.0\InterfaceHierarchy.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceHierarchy\obj\Debug\net5.0\InterfaceHierarchy.AssemblyInfo.cs
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceHierarchy\obj\Debug\net5.0\InterfaceHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceHierarchy\obj\Debug\net5.0\InterfaceHierarchy.dll
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceHierarchy\obj\Debug\net5.0\ref\InterfaceHierarchy.dll
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceHierarchy\obj\Debug\net5.0\InterfaceHierarchy.pdb
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceHierarchy\obj\Debug\net5.0\InterfaceHierarchy.genruntimeconfig.cache
