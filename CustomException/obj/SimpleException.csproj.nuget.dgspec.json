@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\babich\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\CustomException\\SimpleException.csproj": {}
+    "C:\\Users\\salag\\source\\repos\\OOPlessons\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\CustomException\\SimpleException.csproj": {}
   },
   "projects": {
-    "D:\\babich\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\CustomException\\SimpleException.csproj": {
+    "C:\\Users\\salag\\source\\repos\\OOPlessons\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\CustomException\\SimpleException.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\babich\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\CustomException\\SimpleException.csproj",
+        "projectUniqueName": "C:\\Users\\salag\\source\\repos\\OOPlessons\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\CustomException\\SimpleException.csproj",
         "projectName": "SimpleException",
-        "projectPath": "D:\\babich\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\CustomException\\SimpleException.csproj",
-        "packagesPath": "C:\\Users\\babich.vr\\.nuget\\packages\\",
-        "outputPath": "D:\\babich\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\CustomException\\obj\\",
+        "projectPath": "C:\\Users\\salag\\source\\repos\\OOPlessons\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\CustomException\\SimpleException.csproj",
+        "packagesPath": "C:\\Users\\salag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\salag\\source\\repos\\OOPlessons\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\CustomException\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\babich.vr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\salag\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+<<<<<<< HEAD
 namespace ProcessMultipleExpception
 {
     [Serializable]
@@ -36,8 +37,30 @@ public carIsDeadException(string message,string cause,DateTime time):base(messag
     ErrorTimeStamp=time;
     }
     // public override string Message=>$"Car Error Message: {messageDetails}";
-    }
+=======
 
+namespace CustomExceptoin
+{
+    [Serializable]
+    public class ñarlsDeadException : ApplicationException
+    {
+        public ñarlsDeadException() { }
+        public ñarlsDeadException(string message,string cause,DateTime dateTime):base(message) {
+            ErrorTimeStamp = dateTime;
+            CauseOfError = cause;
+        }
+        public ñarlsDeadException(string message) : base(message) { }
+        public ñarlsDeadException(string message, System.Exception inner)
+: base(message, inner) { }
+        protected ñarlsDeadException(
+        System.Runtime.Serialization.SerializationInfo info,
+        System.Runtime.Serialization.StreamingContext context)
+        : base(info, context) { }
+        // Ëþáûå äîïîëíèòåëüíûå ñïåöèàëüíûå ñâîéñòâà, êîíñòðóêòîðû è ÷ëåíû äàííûõ...
+        public DateTime ErrorTimeStamp { get; set; }
+        public string CauseOfError { get; set; }
+>>>>>>> 14cdd096fce860d8062ba954576932d0419973bc
+    }
 
 
 

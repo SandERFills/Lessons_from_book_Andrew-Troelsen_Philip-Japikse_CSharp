@@ -1,5 +1,6 @@
 using System;
 using System.Collections;
+using System.IO;
 
 namespace CustomExceptoin
 {
@@ -16,7 +17,7 @@ namespace CustomExceptoin
                 for (int i = 0; i < 10; i++)
                     car.Accselerait(10);
             }
-            catch (carIsDeadException e)
+            catch (сarlsDeadException e) when (e.ErrorTimeStamp.DayOfWeek!=DayOfWeek.Friday)
             {
                 // Console.WriteLine("** Exception\n***");
                 // Console.WriteLine($"Method : {e.TargetSite}");//Имя члена
@@ -32,9 +33,30 @@ namespace CustomExceptoin
                 // {
                 //     Console.WriteLine($"-> {dateInExcaption.Key} - {dateInExcaption.Value}");
                 // }
+                Console.WriteLine("Catching car is dead");
                 Console.WriteLine(e.Message);
-                Console.WriteLine(e.ErrorTimeStamp);
-                Console.WriteLine(e.CauseOfError);
+                //Console.WriteLine(e.ErrorTimeStamp);
+                //Console.WriteLine(e.CauseOfError);
+                try
+                {
+                    FileStream fs = File.Open(@"C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomException\carisdead.txt", FileMode.Open);
+                }
+                
+                catch (Exception e2)
+                {
+                    //Исключение кото
+                    throw new сarlsDeadException(e.Message,e2);
+                }
+                
+                
+            }
+            catch(ArgumentOutOfRangeException argOut) { }
+            catch(Exception e) { }
+            finally
+            {
+                //Этот блок выполнится независимо от того
+                //возникло исключение или нет
+                car.CrankyTunes(false);
             }
             Console.ReadLine();
         }
