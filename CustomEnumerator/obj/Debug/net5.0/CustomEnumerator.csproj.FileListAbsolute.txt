@@ -1,0 +1,16 @@
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumerator\obj\Debug\net5.0\CustomEnumerator.csproj.AssemblyReference.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumerator\obj\Debug\net5.0\CustomEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumerator\obj\Debug\net5.0\CustomEnumerator.AssemblyInfoInputs.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumerator\obj\Debug\net5.0\CustomEnumerator.AssemblyInfo.cs
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumerator\obj\Debug\net5.0\CustomEnumerator.csproj.CoreCompileInputs.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumerator\bin\Debug\net5.0\CustomEnumerator.exe
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumerator\bin\Debug\net5.0\CustomEnumerator.deps.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumerator\bin\Debug\net5.0\CustomEnumerator.runtimeconfig.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumerator\bin\Debug\net5.0\CustomEnumerator.runtimeconfig.dev.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumerator\bin\Debug\net5.0\CustomEnumerator.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumerator\bin\Debug\net5.0\ref\CustomEnumerator.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumerator\bin\Debug\net5.0\CustomEnumerator.pdb
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumerator\obj\Debug\net5.0\CustomEnumerator.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumerator\obj\Debug\net5.0\ref\CustomEnumerator.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumerator\obj\Debug\net5.0\CustomEnumerator.pdb
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumerator\obj\Debug\net5.0\CustomEnumerator.genruntimeconfig.cache

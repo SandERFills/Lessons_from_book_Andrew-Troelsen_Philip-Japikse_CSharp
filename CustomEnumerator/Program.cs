@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace CustomEnumerator
 {
@@ -8,10 +9,13 @@ namespace CustomEnumerator
         {
             Console.WriteLine("***** Fun with IEnumerable/IEnumerator *****");
             Garage garage = new Garage();
-            foreach (Car car in garage)
-            {
-                Console.WriteLine("Car name :{0} is {1} km/h",car.PetName,car.CurrentSpeed);
-            }
+            IEnumerator i =garage.GetEnumerator();
+            i.MoveNext();
+            Car myCar=(Car)i.Current;
+            Console.WriteLine("{0} is going {1} MPH",myCar.PetName,myCar.CurrentSpeed);
+            i.MoveNext();
+            myCar=(Car)i.Current;
+            Console.WriteLine("{0} is going {1} MPH",myCar.PetName,myCar.CurrentSpeed);
         }
     }
 }

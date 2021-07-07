@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Collections;
 
 namespace CustomEnumerator
 {
@@ -15,7 +16,13 @@ namespace CustomEnumerator
             garageCar[1] = new Car("Sym", 23);
             garageCar[2] = new Car("Morga", 42);
             garageCar[3] = new Car("Bryag", 18);
-
+        }
+        //IEnumerable информирует о том ,
+        //что элементы обьекта могу быть перечисляемыми
+        //IEnumerable является совместимым с типом IEnumerator
+        public IEnumerator GetEnumerator(){
+            //IEnumerator позваляет получать элементы контейнера
+            return garageCar.GetEnumerator();
         }
     }
 }
