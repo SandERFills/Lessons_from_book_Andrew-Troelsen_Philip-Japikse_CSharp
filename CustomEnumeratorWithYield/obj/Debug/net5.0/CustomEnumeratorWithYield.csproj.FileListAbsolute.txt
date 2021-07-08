@@ -1,0 +1,16 @@
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\obj\Debug\net5.0\CustomEnumeratorWithYield.csproj.AssemblyReference.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\obj\Debug\net5.0\CustomEnumeratorWithYield.GeneratedMSBuildEditorConfig.editorconfig
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\obj\Debug\net5.0\CustomEnumeratorWithYield.AssemblyInfoInputs.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\obj\Debug\net5.0\CustomEnumeratorWithYield.AssemblyInfo.cs
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\obj\Debug\net5.0\CustomEnumeratorWithYield.csproj.CoreCompileInputs.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\bin\Debug\net5.0\CustomEnumeratorWithYield.exe
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\bin\Debug\net5.0\CustomEnumeratorWithYield.deps.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\bin\Debug\net5.0\CustomEnumeratorWithYield.runtimeconfig.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\bin\Debug\net5.0\CustomEnumeratorWithYield.runtimeconfig.dev.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\bin\Debug\net5.0\CustomEnumeratorWithYield.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\bin\Debug\net5.0\ref\CustomEnumeratorWithYield.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\bin\Debug\net5.0\CustomEnumeratorWithYield.pdb
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\obj\Debug\net5.0\CustomEnumeratorWithYield.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\obj\Debug\net5.0\ref\CustomEnumeratorWithYield.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\obj\Debug\net5.0\CustomEnumeratorWithYield.pdb
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\obj\Debug\net5.0\CustomEnumeratorWithYield.genruntimeconfig.cache
