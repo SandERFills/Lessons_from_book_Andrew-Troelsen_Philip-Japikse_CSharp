@@ -18,10 +18,45 @@ namespace CustomEnumeratorWithYield
             garageCar[3] = new Car("Bryag", 18);
         }
 
-        public IEnumerator GetEnumerator()
+        public IEnumerator GetEnumerator()//Эта функция возвращает экземпляр перечесляемого типа
         {
-          return  garageCar.GetEnumerator();
+            // Это исключение сгенерируется немедленно,
+            //throw new Exception("This will get called");
+            return actuallmplementation();
+            // Закрытая функция.
+            IEnumerator actuallmplementation()
+            {
+                foreach (Car c in garageCar)
+                {
+                    yield return c;
+                }
+            }
+
         }
-        
-    }
+        public IEnumerable GetTheCars(bool returnReversed)
+        {
+            // Выполнить проверку на предмет ошибок,
+            return actuallmplementation();
+            IEnumerable actuallmplementation()
+            {
+                // Возвратить элементы в обратном порядке,
+                if (returnReversed)
+                {
+                    for (int i = garageCar.Length; i != 0; i--)
+                    {
+                        yield return garageCar[i - 1];
+                    }
+                }
+                else
+                {
+                    // Возвратить элементы в том порядке, в каком они размещены в массиве,
+                    foreach (Car с in garageCar)
+                    {
+                        yield return с;
+                    }
+                }
+            }
+        }
+
+        }
 }

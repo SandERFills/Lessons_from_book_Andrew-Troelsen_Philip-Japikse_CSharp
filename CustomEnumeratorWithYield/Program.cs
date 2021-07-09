@@ -8,20 +8,23 @@ namespace CustomEnumeratorWithYield
         static void Main(string[] args)
         {
             Console.WriteLine("**** Fun with the Yeild KeyWord");
-            Garage garageCar=new Garage();//create instance Garage
-            //IEnumerator enummerator = garageCar.GetEnumerator();//create instance enumerable type that contain in Garage
-            //enummerator.MoveNext();//assigning enumerable statment next value
-            //Car myCar=(Car)enummerator.Current;//assigning value of enum
-            //Console.WriteLine(myCar.CurrentSpeed);
-            foreach (Car C in garageCar)//Take all elements using GetEnumerator()
+            
+            Garage carLot = new Garage();
+            // Получить элементы, используя GetEnumerator().
+            foreach (Car c in carLot)
             {
-                Console.WriteLine("{0} is name,{1} is speed",C.PetName,C.CurrentSpeed);
+                Console.WriteLine("{0} is going {1} MPH",
+            c.PetName, c.CurrentSpeed);
             }
-            //revers array
-            //foreach (Car C in garageCar.GetEnumerator())
-            //{
-
-            //}
+            Console.WriteLine();
+            // Получить элементы (в обратном порядке!)
+            //с. применением именованного итератора.
+            foreach (Car с in carLot.GetTheCars(true))
+            {
+                Console.WriteLine("{0} is going {1} MPH",
+                с.PetName, с.CurrentSpeed);
+            }
+            Console.ReadLine();
         }
     }
 }

@@ -22,3 +22,11 @@ C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-
 C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\obj\Debug\net5.0\CustomEnumeratorWithYield.dll
 C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\obj\Debug\net5.0\ref\CustomEnumeratorWithYield.dll
 C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\obj\Debug\net5.0\CustomEnumeratorWithYield.pdb
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\bin\Debug\net5.0\CustomEnumeratorWithYield.exe
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\bin\Debug\net5.0\CustomEnumeratorWithYield.deps.json
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\bin\Debug\net5.0\CustomEnumeratorWithYield.runtimeconfig.json
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\bin\Debug\net5.0\CustomEnumeratorWithYield.runtimeconfig.dev.json
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\bin\Debug\net5.0\CustomEnumeratorWithYield.dll
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\bin\Debug\net5.0\ref\CustomEnumeratorWithYield.dll
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\bin\Debug\net5.0\CustomEnumeratorWithYield.pdb
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomEnumeratorWithYield\obj\Debug\net5.0\CustomEnumeratorWithYield.genruntimeconfig.cache
