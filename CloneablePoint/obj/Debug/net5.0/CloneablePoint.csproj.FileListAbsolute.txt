@@ -1,0 +1,16 @@
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CloneablePoint\bin\Debug\net5.0\CloneablePoint.exe
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CloneablePoint\bin\Debug\net5.0\CloneablePoint.deps.json
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CloneablePoint\bin\Debug\net5.0\CloneablePoint.runtimeconfig.json
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CloneablePoint\bin\Debug\net5.0\CloneablePoint.runtimeconfig.dev.json
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CloneablePoint\bin\Debug\net5.0\CloneablePoint.dll
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CloneablePoint\bin\Debug\net5.0\ref\CloneablePoint.dll
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CloneablePoint\bin\Debug\net5.0\CloneablePoint.pdb
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CloneablePoint\obj\Debug\net5.0\CloneablePoint.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CloneablePoint\obj\Debug\net5.0\CloneablePoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CloneablePoint\obj\Debug\net5.0\CloneablePoint.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CloneablePoint\obj\Debug\net5.0\CloneablePoint.AssemblyInfo.cs
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CloneablePoint\obj\Debug\net5.0\CloneablePoint.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CloneablePoint\obj\Debug\net5.0\CloneablePoint.dll
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CloneablePoint\obj\Debug\net5.0\ref\CloneablePoint.dll
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CloneablePoint\obj\Debug\net5.0\CloneablePoint.pdb
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CloneablePoint\obj\Debug\net5.0\CloneablePoint.genruntimeconfig.cache
