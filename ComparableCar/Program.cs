@@ -13,8 +13,14 @@ namespace ComparableCar
             cars[2] = new Car("Viper", 40, 34);
             cars[3] = new Car("Mel", 40, 4);
             cars[4] = new Car("Chucky", 40, 5);
-
-
+            foreach(Car c in cars)
+                Console.WriteLine("{0} {1}",c.CarID,c.PetName);
+            Array.Sort(cars);//Принимает реализацию CompareTo()
+            Console.WriteLine();
+            Console.WriteLine("Here is the ordered set of cars: ");
+            foreach(Car c in cars)
+                Console.WriteLine("{0} {1}",c.CarID,c.PetName);
+            Console.ReadLine();
         }
     }
 }

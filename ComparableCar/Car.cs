@@ -23,6 +23,7 @@ namespace ComparableCar
         public int CarID { get; set; }
 
         public int CompareTo(object obj)//Реализация метода интерфейса IComparable
+        //Который передаётся в класс Array и нужен для выбора цели сортировки
         {
             Car temp = obj as Car;
             if (temp !=null)
