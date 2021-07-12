@@ -25,7 +25,11 @@ namespace ComparableCar
 Array.Sort(cars, new PetNameComparer()); // Вывести отсортированный массив.
 Console.WriteLine( "Ordering by pet name : ") ; 
 foreach(Car c in cars)
-Console.WriteLine ("{ 0} {!}", c.CarID, c.PetName);
+Console.WriteLine ("{0} {1}", c.CarID, c.PetName);
+System.Console.WriteLine();
+Array.Sort(cars,Car.SortByPetName);
+foreach(Car c in cars)
+Console.WriteLine ("{0} {1}", c.CarID, c.PetName);
             Console.ReadLine();
         }
     }

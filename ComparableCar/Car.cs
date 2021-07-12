@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -35,7 +36,8 @@ namespace ComparableCar
                 throw new ArgumentException("Parametr is not a Car");
             }
         }
-
+        //special property for IComparer intance 
+    public static IComparer SortByPetName{get{return (IComparer)new PetNameComparer();}}
         public void PrintSpeed() => Console.WriteLine("{0} is going {1} km/h",PetName,CurrSpeed);
         public void SpeedUp(int delta) => CurrSpeed += delta;
     }
