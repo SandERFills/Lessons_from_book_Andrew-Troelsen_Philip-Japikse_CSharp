@@ -1,0 +1,16 @@
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ComparableCar\bin\Debug\net5.0\ComparableCar.exe
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ComparableCar\bin\Debug\net5.0\ComparableCar.deps.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ComparableCar\bin\Debug\net5.0\ComparableCar.runtimeconfig.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ComparableCar\bin\Debug\net5.0\ComparableCar.runtimeconfig.dev.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ComparableCar\bin\Debug\net5.0\ComparableCar.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ComparableCar\bin\Debug\net5.0\ref\ComparableCar.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ComparableCar\bin\Debug\net5.0\ComparableCar.pdb
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ComparableCar\obj\Debug\net5.0\ComparableCar.csproj.AssemblyReference.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ComparableCar\obj\Debug\net5.0\ComparableCar.GeneratedMSBuildEditorConfig.editorconfig
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ComparableCar\obj\Debug\net5.0\ComparableCar.AssemblyInfoInputs.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ComparableCar\obj\Debug\net5.0\ComparableCar.AssemblyInfo.cs
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ComparableCar\obj\Debug\net5.0\ComparableCar.csproj.CoreCompileInputs.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ComparableCar\obj\Debug\net5.0\ComparableCar.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ComparableCar\obj\Debug\net5.0\ref\ComparableCar.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ComparableCar\obj\Debug\net5.0\ComparableCar.pdb
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ComparableCar\obj\Debug\net5.0\ComparableCar.genruntimeconfig.cache

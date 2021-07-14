@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\salag\\source\\repos\\OOPlessons\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\ComparableCar\\ComparableCar.csproj": {}
+    "D:\\babich\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\ComparableCar\\ComparableCar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\salag\\source\\repos\\OOPlessons\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\ComparableCar\\ComparableCar.csproj": {
+    "D:\\babich\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\ComparableCar\\ComparableCar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\salag\\source\\repos\\OOPlessons\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\ComparableCar\\ComparableCar.csproj",
+        "projectUniqueName": "D:\\babich\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\ComparableCar\\ComparableCar.csproj",
         "projectName": "ComparableCar",
-        "projectPath": "C:\\Users\\salag\\source\\repos\\OOPlessons\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\ComparableCar\\ComparableCar.csproj",
-        "packagesPath": "C:\\Users\\salag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\salag\\source\\repos\\OOPlessons\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\ComparableCar\\obj\\",
+        "projectPath": "D:\\babich\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\ComparableCar\\ComparableCar.csproj",
+        "packagesPath": "C:\\Users\\babich.vr\\.nuget\\packages\\",
+        "outputPath": "D:\\babich\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\ComparableCar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\salag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\babich.vr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
