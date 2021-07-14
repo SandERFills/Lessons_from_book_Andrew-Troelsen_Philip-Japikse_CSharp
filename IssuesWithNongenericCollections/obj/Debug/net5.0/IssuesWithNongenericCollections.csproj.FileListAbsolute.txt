@@ -1,0 +1,16 @@
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\IssuesWithNongenericCollections\bin\Debug\net5.0\IssuesWithNongenericCollections.exe
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\IssuesWithNongenericCollections\bin\Debug\net5.0\IssuesWithNongenericCollections.deps.json
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\IssuesWithNongenericCollections\bin\Debug\net5.0\IssuesWithNongenericCollections.runtimeconfig.json
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\IssuesWithNongenericCollections\bin\Debug\net5.0\IssuesWithNongenericCollections.runtimeconfig.dev.json
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\IssuesWithNongenericCollections\bin\Debug\net5.0\IssuesWithNongenericCollections.dll
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\IssuesWithNongenericCollections\bin\Debug\net5.0\ref\IssuesWithNongenericCollections.dll
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\IssuesWithNongenericCollections\bin\Debug\net5.0\IssuesWithNongenericCollections.pdb
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\IssuesWithNongenericCollections\obj\Debug\net5.0\IssuesWithNongenericCollections.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\IssuesWithNongenericCollections\obj\Debug\net5.0\IssuesWithNongenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\IssuesWithNongenericCollections\obj\Debug\net5.0\IssuesWithNongenericCollections.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\IssuesWithNongenericCollections\obj\Debug\net5.0\IssuesWithNongenericCollections.AssemblyInfo.cs
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\IssuesWithNongenericCollections\obj\Debug\net5.0\IssuesWithNongenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\IssuesWithNongenericCollections\obj\Debug\net5.0\IssuesWithNongenericCollections.dll
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\IssuesWithNongenericCollections\obj\Debug\net5.0\ref\IssuesWithNongenericCollections.dll
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\IssuesWithNongenericCollections\obj\Debug\net5.0\IssuesWithNongenericCollections.pdb
+C:\Users\salag\source\repos\OOPlessons\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\IssuesWithNongenericCollections\obj\Debug\net5.0\IssuesWithNongenericCollections.genruntimeconfig.cache
