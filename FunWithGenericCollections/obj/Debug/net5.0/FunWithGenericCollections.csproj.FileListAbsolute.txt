@@ -1,0 +1,16 @@
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FunWithGenericCollections\obj\Debug\net5.0\FunWithGenericCollections.csproj.AssemblyReference.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FunWithGenericCollections\obj\Debug\net5.0\FunWithGenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FunWithGenericCollections\obj\Debug\net5.0\FunWithGenericCollections.AssemblyInfoInputs.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FunWithGenericCollections\obj\Debug\net5.0\FunWithGenericCollections.AssemblyInfo.cs
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FunWithGenericCollections\obj\Debug\net5.0\FunWithGenericCollections.csproj.CoreCompileInputs.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FunWithGenericCollections\bin\Debug\net5.0\FunWithGenericCollections.exe
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FunWithGenericCollections\bin\Debug\net5.0\FunWithGenericCollections.deps.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FunWithGenericCollections\bin\Debug\net5.0\FunWithGenericCollections.runtimeconfig.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FunWithGenericCollections\bin\Debug\net5.0\FunWithGenericCollections.runtimeconfig.dev.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FunWithGenericCollections\bin\Debug\net5.0\FunWithGenericCollections.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FunWithGenericCollections\bin\Debug\net5.0\ref\FunWithGenericCollections.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FunWithGenericCollections\bin\Debug\net5.0\FunWithGenericCollections.pdb
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FunWithGenericCollections\obj\Debug\net5.0\FunWithGenericCollections.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FunWithGenericCollections\obj\Debug\net5.0\ref\FunWithGenericCollections.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FunWithGenericCollections\obj\Debug\net5.0\FunWithGenericCollections.pdb
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FunWithGenericCollections\obj\Debug\net5.0\FunWithGenericCollections.genruntimeconfig.cache
