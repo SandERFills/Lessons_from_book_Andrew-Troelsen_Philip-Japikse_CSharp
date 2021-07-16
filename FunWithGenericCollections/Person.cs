@@ -17,7 +17,8 @@ namespace FunWithGenericCollections
        public override string ToString(){
            return $"Name: {FirstName} {LastName}, Age= {Age}";
        }
-      public  static void UseGenericList(){
+      
+      static void UseGenericList(){
            //Создать список объектов Person и заполнить 
            //его с помощью инициализации объектов и коллекции
            List<Person> people=new List<Person>()
@@ -41,6 +42,50 @@ people.Insert(2,new Person { FirstName = "Maggie", LastName = "Simpson", Age =2 
             System.Console.WriteLine("First Names: {0}",p.FirstName);
         }
     }
-      
+ public   static void UseGenericStack()
+    {
+        Stack<Person> stackOfPeople=new Stack<Person>();
+        stackOfPeople.Push(new Person{FirstName="Фёдр",LastName="Михайлович",Age=72});
+        stackOfPeople.Push(new Person{FirstName="Лев",LastName="Николаевич",Age=86});
+        stackOfPeople.Push(new Person{FirstName="Александр",LastName="Сергеевич",Age=34});
+        //Посмотреть верхний элемент ,вытолкнуть его и посмотреть снова
+        System.Console.WriteLine("First person is: {0}",stackOfPeople.Peek());
+        System.Console.WriteLine("Popped of {0}\n",stackOfPeople.Pop());
+        System.Console.WriteLine("First person is: {0}",stackOfPeople.Peek());
+        System.Console.WriteLine("Popped of {0}\n",stackOfPeople.Pop());
+        System.Console.WriteLine("First person is: {0}",stackOfPeople.Peek());
+        System.Console.WriteLine("Popped of {0}\n",stackOfPeople.Pop());
+        try{
+System.Console.WriteLine("First person is: {0}",stackOfPeople.Peek());
+        System.Console.WriteLine("Popped of {0}\n",stackOfPeople.Pop());
+   
+        }
+        catch(InvalidOperationException ex){
+            System.Console.WriteLine("\nError : {0}",ex.Message);
+        }
+         }
+         static void GetCoffee(Person p){
+             System.Console.WriteLine("{0} got coffee!",p.FirstName);
+         }
+       public  static void UseGenericQueue(){
+             //Создать очередь из трёх человек
+             Queue<Person> peopleQ=new Queue<Person>();
+             peopleQ.Enqueue(new Person{FirstName="Фёдр",LastName="Михайлович",Age=72});
+             peopleQ.Enqueue(new Person{FirstName="Лев",LastName="Николаевич",Age=86});
+             peopleQ.Enqueue(new Person{FirstName="Александр",LastName="Сергеевич",Age=34});
+             //Вернуть обьект и удалить его 3 раза
+             GetCoffee(peopleQ.Dequeue());
+             GetCoffee(peopleQ.Dequeue());
+             GetCoffee(peopleQ.Dequeue());
+            try
+            {
+                GetCoffee(peopleQ.Dequeue());
+            }
+            catch (InvalidOperationException e)
+            {
+                
+                System.Console.WriteLine("Error {0}",e.Message);
+            }
+         }
     }
 }   

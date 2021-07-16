@@ -8,8 +8,12 @@ namespace FunWithGenericCollections
         static void Main(string[] args)
         {
             Console.WriteLine("******* Fun with Generic Collections!");
-            Person.UseGenericList();
+            // Person.UseGenericList();
+            // Person.UseGenericStack();
+            Person.UseGenericQueue();
+
         }
+    
     
 
  }
