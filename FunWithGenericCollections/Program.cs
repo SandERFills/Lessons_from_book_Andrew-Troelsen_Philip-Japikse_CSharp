@@ -11,9 +11,10 @@ namespace FunWithGenericCollections
             // Person.UseGenericList();
             // Person.UseGenericStack();
             Person.UseGenericQueue();
-
+            System.Console.WriteLine("Sorted By");
+            Person.UseSortedSet();
         }
-    
+        
     
 
  }

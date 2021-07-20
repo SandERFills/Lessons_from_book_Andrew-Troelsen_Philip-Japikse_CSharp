@@ -44,7 +44,8 @@ people.Insert(2,new Person { FirstName = "Maggie", LastName = "Simpson", Age =2 
     }
  public   static void UseGenericStack()
     {
-        Stack<Person> stackOfPeople=new Stack<Person>();
+        //Класс stack реализует последовательность типа "LIFO" last input-first output
+        Stack<Person> stackOfPeople=new Stack<Person>();//Обобщённый класс Stack<> принимает только переменныe типа Person
         stackOfPeople.Push(new Person{FirstName="Фёдр",LastName="Михайлович",Age=72});
         stackOfPeople.Push(new Person{FirstName="Лев",LastName="Николаевич",Age=86});
         stackOfPeople.Push(new Person{FirstName="Александр",LastName="Сергеевич",Age=34});
@@ -68,6 +69,7 @@ System.Console.WriteLine("First person is: {0}",stackOfPeople.Peek());
              System.Console.WriteLine("{0} got coffee!",p.FirstName);
          }
        public  static void UseGenericQueue(){
+           //Класс queue реализует последовательность FIFO first input-first output
              //Создать очередь из трёх человек
              Queue<Person> peopleQ=new Queue<Person>();
              peopleQ.Enqueue(new Person{FirstName="Фёдр",LastName="Михайлович",Age=72});
@@ -86,6 +88,28 @@ System.Console.WriteLine("First person is: {0}",stackOfPeople.Peek());
                 
                 System.Console.WriteLine("Error {0}",e.Message);
             }
+         }
+         public static void UseSortedSet(){
+             SortedSet<Person> setOfpeople=new SortedSet<Person>(new SortPeopleByAge()){
+                 new Person{FirstName="Homer",LastName="Simpson",Age=47},
+               new Person{FirstName="Marge",LastName="Simpson",Age=45},
+               new Person{FirstName="Lisa",LastName="Simpson",Age=9},
+               new Person{FirstName="Bart",LastName="Simpson",Age=8}
+             };
+             //elements sorted by age
+             foreach (Person p in setOfpeople)
+            {
+                System.Console.WriteLine(p);
+            }
+            System.Console.WriteLine();
+             setOfpeople.Add(new Person{FirstName="Saku",LastName="Jones",Age=1});
+             setOfpeople.Add(new Person{FirstName="Mikko",LastName="Jones",Age=9});
+            //elements still sorted by age
+            foreach (Person p in setOfpeople)
+            {
+                System.Console.WriteLine(p);
+            }
+            System.Console.WriteLine();
          }
     }
 }   
