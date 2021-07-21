@@ -1,0 +1,16 @@
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomGenericMethods\obj\Debug\net5.0\CustomGenericMethods.csproj.AssemblyReference.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomGenericMethods\obj\Debug\net5.0\CustomGenericMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomGenericMethods\obj\Debug\net5.0\CustomGenericMethods.AssemblyInfoInputs.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomGenericMethods\obj\Debug\net5.0\CustomGenericMethods.AssemblyInfo.cs
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomGenericMethods\obj\Debug\net5.0\CustomGenericMethods.csproj.CoreCompileInputs.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomGenericMethods\bin\Debug\net5.0\CustomGenericMethods.exe
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomGenericMethods\bin\Debug\net5.0\CustomGenericMethods.deps.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomGenericMethods\bin\Debug\net5.0\CustomGenericMethods.runtimeconfig.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomGenericMethods\bin\Debug\net5.0\CustomGenericMethods.runtimeconfig.dev.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomGenericMethods\bin\Debug\net5.0\CustomGenericMethods.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomGenericMethods\bin\Debug\net5.0\ref\CustomGenericMethods.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomGenericMethods\bin\Debug\net5.0\CustomGenericMethods.pdb
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomGenericMethods\obj\Debug\net5.0\CustomGenericMethods.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomGenericMethods\obj\Debug\net5.0\ref\CustomGenericMethods.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomGenericMethods\obj\Debug\net5.0\CustomGenericMethods.pdb
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\CustomGenericMethods\obj\Debug\net5.0\CustomGenericMethods.genruntimeconfig.cache
