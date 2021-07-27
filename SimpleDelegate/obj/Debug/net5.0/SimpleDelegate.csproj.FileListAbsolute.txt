@@ -1,0 +1,16 @@
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDelegate\obj\Debug\net5.0\SimpleDelegate.csproj.AssemblyReference.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDelegate\obj\Debug\net5.0\SimpleDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDelegate\obj\Debug\net5.0\SimpleDelegate.AssemblyInfoInputs.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDelegate\obj\Debug\net5.0\SimpleDelegate.AssemblyInfo.cs
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDelegate\obj\Debug\net5.0\SimpleDelegate.csproj.CoreCompileInputs.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDelegate\bin\Debug\net5.0\SimpleDelegate.exe
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDelegate\bin\Debug\net5.0\SimpleDelegate.deps.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDelegate\bin\Debug\net5.0\SimpleDelegate.runtimeconfig.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDelegate\bin\Debug\net5.0\SimpleDelegate.runtimeconfig.dev.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDelegate\bin\Debug\net5.0\SimpleDelegate.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDelegate\bin\Debug\net5.0\ref\SimpleDelegate.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDelegate\bin\Debug\net5.0\SimpleDelegate.pdb
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDelegate\obj\Debug\net5.0\SimpleDelegate.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDelegate\obj\Debug\net5.0\ref\SimpleDelegate.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDelegate\obj\Debug\net5.0\SimpleDelegate.pdb
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDelegate\obj\Debug\net5.0\SimpleDelegate.genruntimeconfig.cache
