@@ -1,0 +1,16 @@
+C:\Users\salag\source\repos\SimpleDelegate\SimpleDelegate\bin\Debug\net5.0\SimpleDelegate.exe
+C:\Users\salag\source\repos\SimpleDelegate\SimpleDelegate\bin\Debug\net5.0\SimpleDelegate.deps.json
+C:\Users\salag\source\repos\SimpleDelegate\SimpleDelegate\bin\Debug\net5.0\SimpleDelegate.runtimeconfig.json
+C:\Users\salag\source\repos\SimpleDelegate\SimpleDelegate\bin\Debug\net5.0\SimpleDelegate.runtimeconfig.dev.json
+C:\Users\salag\source\repos\SimpleDelegate\SimpleDelegate\bin\Debug\net5.0\SimpleDelegate.dll
+C:\Users\salag\source\repos\SimpleDelegate\SimpleDelegate\bin\Debug\net5.0\ref\SimpleDelegate.dll
+C:\Users\salag\source\repos\SimpleDelegate\SimpleDelegate\bin\Debug\net5.0\SimpleDelegate.pdb
+C:\Users\salag\source\repos\SimpleDelegate\SimpleDelegate\obj\Debug\net5.0\SimpleDelegate.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\SimpleDelegate\SimpleDelegate\obj\Debug\net5.0\SimpleDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salag\source\repos\SimpleDelegate\SimpleDelegate\obj\Debug\net5.0\SimpleDelegate.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\SimpleDelegate\SimpleDelegate\obj\Debug\net5.0\SimpleDelegate.AssemblyInfo.cs
+C:\Users\salag\source\repos\SimpleDelegate\SimpleDelegate\obj\Debug\net5.0\SimpleDelegate.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\SimpleDelegate\SimpleDelegate\obj\Debug\net5.0\SimpleDelegate.dll
+C:\Users\salag\source\repos\SimpleDelegate\SimpleDelegate\obj\Debug\net5.0\ref\SimpleDelegate.dll
+C:\Users\salag\source\repos\SimpleDelegate\SimpleDelegate\obj\Debug\net5.0\SimpleDelegate.pdb
+C:\Users\salag\source\repos\SimpleDelegate\SimpleDelegate\obj\Debug\net5.0\SimpleDelegate.genruntimeconfig.cache
