@@ -1,0 +1,16 @@
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\net5.0\ActionAndFuncDelegates.exe
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\net5.0\ActionAndFuncDelegates.deps.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\net5.0\ActionAndFuncDelegates.runtimeconfig.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\net5.0\ActionAndFuncDelegates.runtimeconfig.dev.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\net5.0\ActionAndFuncDelegates.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\net5.0\ref\ActionAndFuncDelegates.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\net5.0\ActionAndFuncDelegates.pdb
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net5.0\ActionAndFuncDelegates.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net5.0\ActionAndFuncDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net5.0\ActionAndFuncDelegates.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net5.0\ActionAndFuncDelegates.AssemblyInfo.cs
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net5.0\ActionAndFuncDelegates.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net5.0\ActionAndFuncDelegates.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net5.0\ref\ActionAndFuncDelegates.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net5.0\ActionAndFuncDelegates.pdb
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\net5.0\ActionAndFuncDelegates.genruntimeconfig.cache
