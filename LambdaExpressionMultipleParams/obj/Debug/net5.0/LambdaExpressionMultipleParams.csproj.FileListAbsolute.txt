@@ -1,0 +1,16 @@
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LambdaExpressionMultipleParams\bin\Debug\net5.0\LambdaExpressionMultipleParams.exe
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LambdaExpressionMultipleParams\bin\Debug\net5.0\LambdaExpressionMultipleParams.deps.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LambdaExpressionMultipleParams\bin\Debug\net5.0\LambdaExpressionMultipleParams.runtimeconfig.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LambdaExpressionMultipleParams\bin\Debug\net5.0\LambdaExpressionMultipleParams.runtimeconfig.dev.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LambdaExpressionMultipleParams\bin\Debug\net5.0\LambdaExpressionMultipleParams.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LambdaExpressionMultipleParams\bin\Debug\net5.0\ref\LambdaExpressionMultipleParams.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LambdaExpressionMultipleParams\bin\Debug\net5.0\LambdaExpressionMultipleParams.pdb
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LambdaExpressionMultipleParams\obj\Debug\net5.0\LambdaExpressionMultipleParams.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LambdaExpressionMultipleParams\obj\Debug\net5.0\LambdaExpressionMultipleParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LambdaExpressionMultipleParams\obj\Debug\net5.0\LambdaExpressionMultipleParams.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LambdaExpressionMultipleParams\obj\Debug\net5.0\LambdaExpressionMultipleParams.AssemblyInfo.cs
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LambdaExpressionMultipleParams\obj\Debug\net5.0\LambdaExpressionMultipleParams.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LambdaExpressionMultipleParams\obj\Debug\net5.0\LambdaExpressionMultipleParams.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LambdaExpressionMultipleParams\obj\Debug\net5.0\ref\LambdaExpressionMultipleParams.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LambdaExpressionMultipleParams\obj\Debug\net5.0\LambdaExpressionMultipleParams.pdb
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LambdaExpressionMultipleParams\obj\Debug\net5.0\LambdaExpressionMultipleParams.genruntimeconfig.cache
