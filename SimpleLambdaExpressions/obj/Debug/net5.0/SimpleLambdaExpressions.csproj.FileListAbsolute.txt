@@ -1,0 +1,16 @@
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleLambdaExpressions\bin\Debug\net5.0\SimpleLambdaExpressions.exe
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleLambdaExpressions\bin\Debug\net5.0\SimpleLambdaExpressions.deps.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleLambdaExpressions\bin\Debug\net5.0\SimpleLambdaExpressions.runtimeconfig.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleLambdaExpressions\bin\Debug\net5.0\SimpleLambdaExpressions.runtimeconfig.dev.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleLambdaExpressions\bin\Debug\net5.0\SimpleLambdaExpressions.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleLambdaExpressions\bin\Debug\net5.0\ref\SimpleLambdaExpressions.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleLambdaExpressions\bin\Debug\net5.0\SimpleLambdaExpressions.pdb
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleLambdaExpressions\obj\Debug\net5.0\SimpleLambdaExpressions.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleLambdaExpressions\obj\Debug\net5.0\SimpleLambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleLambdaExpressions\obj\Debug\net5.0\SimpleLambdaExpressions.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleLambdaExpressions\obj\Debug\net5.0\SimpleLambdaExpressions.AssemblyInfo.cs
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleLambdaExpressions\obj\Debug\net5.0\SimpleLambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleLambdaExpressions\obj\Debug\net5.0\SimpleLambdaExpressions.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleLambdaExpressions\obj\Debug\net5.0\ref\SimpleLambdaExpressions.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleLambdaExpressions\obj\Debug\net5.0\SimpleLambdaExpressions.pdb
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleLambdaExpressions\obj\Debug\net5.0\SimpleLambdaExpressions.genruntimeconfig.cache
