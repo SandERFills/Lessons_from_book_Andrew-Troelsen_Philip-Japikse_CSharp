@@ -1,0 +1,16 @@
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\OverloadedOps\bin\Debug\net5.0\OverloadedOps.exe
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\OverloadedOps\bin\Debug\net5.0\OverloadedOps.deps.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\OverloadedOps\bin\Debug\net5.0\OverloadedOps.runtimeconfig.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\OverloadedOps\bin\Debug\net5.0\OverloadedOps.runtimeconfig.dev.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\OverloadedOps\bin\Debug\net5.0\OverloadedOps.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\OverloadedOps\bin\Debug\net5.0\ref\OverloadedOps.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\OverloadedOps\bin\Debug\net5.0\OverloadedOps.pdb
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\OverloadedOps\obj\Debug\net5.0\OverloadedOps.csproj.AssemblyReference.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\OverloadedOps\obj\Debug\net5.0\OverloadedOps.GeneratedMSBuildEditorConfig.editorconfig
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\OverloadedOps\obj\Debug\net5.0\OverloadedOps.AssemblyInfoInputs.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\OverloadedOps\obj\Debug\net5.0\OverloadedOps.AssemblyInfo.cs
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\OverloadedOps\obj\Debug\net5.0\OverloadedOps.csproj.CoreCompileInputs.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\OverloadedOps\obj\Debug\net5.0\OverloadedOps.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\OverloadedOps\obj\Debug\net5.0\ref\OverloadedOps.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\OverloadedOps\obj\Debug\net5.0\OverloadedOps.pdb
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\OverloadedOps\obj\Debug\net5.0\OverloadedOps.genruntimeconfig.cache

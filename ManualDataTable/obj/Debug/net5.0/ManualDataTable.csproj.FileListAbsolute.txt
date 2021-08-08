@@ -1,0 +1,16 @@
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ManualDataTable\obj\Debug\net5.0\ManualDataTable.csproj.AssemblyReference.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ManualDataTable\obj\Debug\net5.0\ManualDataTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ManualDataTable\obj\Debug\net5.0\ManualDataTable.AssemblyInfoInputs.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ManualDataTable\obj\Debug\net5.0\ManualDataTable.AssemblyInfo.cs
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ManualDataTable\obj\Debug\net5.0\ManualDataTable.csproj.CoreCompileInputs.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ManualDataTable\bin\Debug\net5.0\ManualDataTable.exe
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ManualDataTable\bin\Debug\net5.0\ManualDataTable.deps.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ManualDataTable\bin\Debug\net5.0\ManualDataTable.runtimeconfig.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ManualDataTable\bin\Debug\net5.0\ManualDataTable.runtimeconfig.dev.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ManualDataTable\bin\Debug\net5.0\ManualDataTable.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ManualDataTable\bin\Debug\net5.0\ref\ManualDataTable.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ManualDataTable\bin\Debug\net5.0\ManualDataTable.pdb
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ManualDataTable\obj\Debug\net5.0\ManualDataTable.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ManualDataTable\obj\Debug\net5.0\ref\ManualDataTable.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ManualDataTable\obj\Debug\net5.0\ManualDataTable.pdb
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ManualDataTable\obj\Debug\net5.0\ManualDataTable.genruntimeconfig.cache
