@@ -1,0 +1,5 @@
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\StringIndexer\obj\Debug\net5.0\StringIndexer.csproj.AssemblyReference.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\StringIndexer\obj\Debug\net5.0\StringIndexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\StringIndexer\obj\Debug\net5.0\StringIndexer.AssemblyInfoInputs.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\StringIndexer\obj\Debug\net5.0\StringIndexer.AssemblyInfo.cs
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\StringIndexer\obj\Debug\net5.0\StringIndexer.csproj.CoreCompileInputs.cache

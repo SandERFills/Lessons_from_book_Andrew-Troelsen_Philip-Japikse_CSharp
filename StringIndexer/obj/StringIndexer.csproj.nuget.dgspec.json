@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\babich\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\CarEvent\\CarEvent.csproj": {}
+    "D:\\babich\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\StringIndexer\\StringIndexer.csproj": {}
   },
   "projects": {
-    "D:\\babich\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\CarEvent\\CarEvent.csproj": {
+    "D:\\babich\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\StringIndexer\\StringIndexer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\babich\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\CarEvent\\CarEvent.csproj",
-        "projectName": "CarEvent",
-        "projectPath": "D:\\babich\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\CarEvent\\CarEvent.csproj",
+        "projectUniqueName": "D:\\babich\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\StringIndexer\\StringIndexer.csproj",
+        "projectName": "StringIndexer",
+        "projectPath": "D:\\babich\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\StringIndexer\\StringIndexer.csproj",
         "packagesPath": "C:\\Users\\babich.vr\\.nuget\\packages\\",
-        "outputPath": "D:\\babich\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\CarEvent\\obj\\",
+        "outputPath": "D:\\babich\\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\\StringIndexer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\babich.vr\\AppData\\Roaming\\NuGet\\NuGet.Config",

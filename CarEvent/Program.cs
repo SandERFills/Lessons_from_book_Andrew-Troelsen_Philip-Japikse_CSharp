@@ -18,33 +18,40 @@ namespace CarEvent
             //}
             #endregion
             #region Anonymous Methods
-            Console.WriteLine("****** Anonymous Methods *****");
-            Car car = new Car("Louge", 10, 120);
-            int aboutToBlowCounter=0;
-            car.AboutToBlow += delegate//Объявление анонимного метода
-            {
-                aboutToBlowCounter++;
-                Console.WriteLine("Eak,you're going too fast");
-            };
-            car.AboutToBlow += delegate (object sender, CarEventArgs e) {
-                if (sender is Car c)
-                {
-                    Console.WriteLine("{0} is message: {1}", c.CarName,e.msg);
-                    aboutToBlowCounter++;
-                }
+            // Console.WriteLine("****** Anonymous Methods *****");
+            // Car car = new Car("Louge", 10, 120);
+            // int aboutToBlowCounter=0;
+            // car.AboutToBlow += delegate//Объявление анонимного метода
+            // {
+            //     aboutToBlowCounter++;
+            //     Console.WriteLine("Eak,you're going too fast");
+            // };
+            // car.AboutToBlow += delegate (object sender, CarEventArgs e) {
+            //     if (sender is Car c)
+            //     {
+            //         Console.WriteLine("{0} is message: {1}", c.CarName,e.msg);
+            //         aboutToBlowCounter++;
+            //     }
                 
-            };
-            car.Exploded += delegate (object sender, CarEventArgs e) 
-            {
-                Console.WriteLine(e.msg); aboutToBlowCounter++;
-            };
-            for (int i = 0; i < 10; i++)
-            {
-                car.Accelerate(20);
-                Console.WriteLine("aboutToBlowCounter ={0}", aboutToBlowCounter) ;
-            }
+            // };
+            // car.Exploded += delegate (object sender, CarEventArgs e) 
+            // {
+            //     Console.WriteLine(e.msg); aboutToBlowCounter++;
+            // };
+            // for (int i = 0; i < 10; i++)
+            // {
+            //     car.Accelerate(20);
+            //     Console.WriteLine("aboutToBlowCounter ={0}", aboutToBlowCounter) ;
+            // }
             #endregion
-
+                Car car1=new Car("Smith",20,100);
+                car1.AboutToBlow+=(sender,e)=>{System.Console.WriteLine(e.msg);};
+                car1.Exploded+=(sender,e)=>{System.Console.WriteLine(e.msg);};
+                for (int i = 0; i < 10; i++)
+                {
+                    car1.Accelerate(10);
+                    
+                }
         }
 
 
