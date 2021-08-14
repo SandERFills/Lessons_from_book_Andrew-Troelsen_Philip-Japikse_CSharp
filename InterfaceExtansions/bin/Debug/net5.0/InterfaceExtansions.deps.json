@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "InterfaceExtansions/1.0.0": {
+        "runtime": {
+          "InterfaceExtansions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InterfaceExtansions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

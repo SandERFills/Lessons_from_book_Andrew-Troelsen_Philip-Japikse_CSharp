@@ -1,0 +1,16 @@
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceExtansions\bin\Debug\net5.0\InterfaceExtansions.exe
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceExtansions\bin\Debug\net5.0\InterfaceExtansions.deps.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceExtansions\bin\Debug\net5.0\InterfaceExtansions.runtimeconfig.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceExtansions\bin\Debug\net5.0\InterfaceExtansions.runtimeconfig.dev.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceExtansions\bin\Debug\net5.0\InterfaceExtansions.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceExtansions\bin\Debug\net5.0\ref\InterfaceExtansions.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceExtansions\bin\Debug\net5.0\InterfaceExtansions.pdb
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceExtansions\obj\Debug\net5.0\InterfaceExtansions.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceExtansions\obj\Debug\net5.0\InterfaceExtansions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceExtansions\obj\Debug\net5.0\InterfaceExtansions.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceExtansions\obj\Debug\net5.0\InterfaceExtansions.AssemblyInfo.cs
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceExtansions\obj\Debug\net5.0\InterfaceExtansions.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceExtansions\obj\Debug\net5.0\InterfaceExtansions.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceExtansions\obj\Debug\net5.0\ref\InterfaceExtansions.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceExtansions\obj\Debug\net5.0\InterfaceExtansions.pdb
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\InterfaceExtansions\obj\Debug\net5.0\InterfaceExtansions.genruntimeconfig.cache
