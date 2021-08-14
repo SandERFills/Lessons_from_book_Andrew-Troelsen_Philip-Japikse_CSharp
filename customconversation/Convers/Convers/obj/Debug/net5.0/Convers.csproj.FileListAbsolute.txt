@@ -1,0 +1,16 @@
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\customconversation\Convers\Convers\bin\Debug\net5.0\Convers.exe
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\customconversation\Convers\Convers\bin\Debug\net5.0\Convers.deps.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\customconversation\Convers\Convers\bin\Debug\net5.0\Convers.runtimeconfig.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\customconversation\Convers\Convers\bin\Debug\net5.0\Convers.runtimeconfig.dev.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\customconversation\Convers\Convers\bin\Debug\net5.0\Convers.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\customconversation\Convers\Convers\bin\Debug\net5.0\ref\Convers.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\customconversation\Convers\Convers\bin\Debug\net5.0\Convers.pdb
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\customconversation\Convers\Convers\obj\Debug\net5.0\Convers.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\customconversation\Convers\Convers\obj\Debug\net5.0\Convers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\customconversation\Convers\Convers\obj\Debug\net5.0\Convers.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\customconversation\Convers\Convers\obj\Debug\net5.0\Convers.AssemblyInfo.cs
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\customconversation\Convers\Convers\obj\Debug\net5.0\Convers.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\customconversation\Convers\Convers\obj\Debug\net5.0\Convers.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\customconversation\Convers\Convers\obj\Debug\net5.0\ref\Convers.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\customconversation\Convers\Convers\obj\Debug\net5.0\Convers.pdb
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\customconversation\Convers\Convers\obj\Debug\net5.0\Convers.genruntimeconfig.cache
