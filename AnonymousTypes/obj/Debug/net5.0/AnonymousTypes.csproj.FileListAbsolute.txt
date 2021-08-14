@@ -1,0 +1,16 @@
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\AnonymousTypes\bin\Debug\net5.0\AnonymousTypes.exe
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\AnonymousTypes\bin\Debug\net5.0\AnonymousTypes.deps.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\AnonymousTypes\bin\Debug\net5.0\AnonymousTypes.runtimeconfig.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\AnonymousTypes\bin\Debug\net5.0\AnonymousTypes.runtimeconfig.dev.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\AnonymousTypes\bin\Debug\net5.0\AnonymousTypes.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\AnonymousTypes\bin\Debug\net5.0\ref\AnonymousTypes.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\AnonymousTypes\bin\Debug\net5.0\AnonymousTypes.pdb
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\AnonymousTypes\obj\Debug\net5.0\AnonymousTypes.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\AnonymousTypes\obj\Debug\net5.0\AnonymousTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\AnonymousTypes\obj\Debug\net5.0\AnonymousTypes.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\AnonymousTypes\obj\Debug\net5.0\AnonymousTypes.AssemblyInfo.cs
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\AnonymousTypes\obj\Debug\net5.0\AnonymousTypes.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\AnonymousTypes\obj\Debug\net5.0\AnonymousTypes.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\AnonymousTypes\obj\Debug\net5.0\ref\AnonymousTypes.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\AnonymousTypes\obj\Debug\net5.0\AnonymousTypes.pdb
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\AnonymousTypes\obj\Debug\net5.0\AnonymousTypes.genruntimeconfig.cache
