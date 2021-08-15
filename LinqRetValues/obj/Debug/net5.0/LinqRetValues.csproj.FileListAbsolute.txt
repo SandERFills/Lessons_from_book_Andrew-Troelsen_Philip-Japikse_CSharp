@@ -1,0 +1,16 @@
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqRetValues\obj\Debug\net5.0\LinqRetValues.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqRetValues\obj\Debug\net5.0\LinqRetValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqRetValues\obj\Debug\net5.0\LinqRetValues.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqRetValues\obj\Debug\net5.0\LinqRetValues.AssemblyInfo.cs
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqRetValues\obj\Debug\net5.0\LinqRetValues.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqRetValues\bin\Debug\net5.0\LinqRetValues.exe
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqRetValues\bin\Debug\net5.0\LinqRetValues.deps.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqRetValues\bin\Debug\net5.0\LinqRetValues.runtimeconfig.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqRetValues\bin\Debug\net5.0\LinqRetValues.runtimeconfig.dev.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqRetValues\bin\Debug\net5.0\LinqRetValues.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqRetValues\bin\Debug\net5.0\ref\LinqRetValues.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqRetValues\bin\Debug\net5.0\LinqRetValues.pdb
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqRetValues\obj\Debug\net5.0\LinqRetValues.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqRetValues\obj\Debug\net5.0\ref\LinqRetValues.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqRetValues\obj\Debug\net5.0\LinqRetValues.pdb
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqRetValues\obj\Debug\net5.0\LinqRetValues.genruntimeconfig.cache

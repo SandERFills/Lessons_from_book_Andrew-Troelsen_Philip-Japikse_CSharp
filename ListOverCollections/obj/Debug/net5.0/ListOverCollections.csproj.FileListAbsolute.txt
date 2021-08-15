@@ -1,0 +1,16 @@
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ListOverCollections\bin\Debug\net5.0\ListOverCollections.exe
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ListOverCollections\bin\Debug\net5.0\ListOverCollections.deps.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ListOverCollections\bin\Debug\net5.0\ListOverCollections.runtimeconfig.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ListOverCollections\bin\Debug\net5.0\ListOverCollections.runtimeconfig.dev.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ListOverCollections\bin\Debug\net5.0\ListOverCollections.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ListOverCollections\bin\Debug\net5.0\ref\ListOverCollections.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ListOverCollections\bin\Debug\net5.0\ListOverCollections.pdb
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ListOverCollections\obj\Debug\net5.0\ListOverCollections.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ListOverCollections\obj\Debug\net5.0\ListOverCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ListOverCollections\obj\Debug\net5.0\ListOverCollections.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ListOverCollections\obj\Debug\net5.0\ListOverCollections.AssemblyInfo.cs
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ListOverCollections\obj\Debug\net5.0\ListOverCollections.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ListOverCollections\obj\Debug\net5.0\ListOverCollections.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ListOverCollections\obj\Debug\net5.0\ref\ListOverCollections.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ListOverCollections\obj\Debug\net5.0\ListOverCollections.pdb
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\ListOverCollections\obj\Debug\net5.0\ListOverCollections.genruntimeconfig.cache
