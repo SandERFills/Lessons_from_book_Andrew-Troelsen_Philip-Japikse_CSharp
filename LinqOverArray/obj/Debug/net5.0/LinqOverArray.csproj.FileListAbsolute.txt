@@ -1,0 +1,16 @@
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqOverArray\bin\Debug\net5.0\LinqOverArray.exe
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqOverArray\bin\Debug\net5.0\LinqOverArray.deps.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqOverArray\bin\Debug\net5.0\LinqOverArray.runtimeconfig.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqOverArray\bin\Debug\net5.0\LinqOverArray.runtimeconfig.dev.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqOverArray\bin\Debug\net5.0\LinqOverArray.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqOverArray\bin\Debug\net5.0\ref\LinqOverArray.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqOverArray\bin\Debug\net5.0\LinqOverArray.pdb
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqOverArray\obj\Debug\net5.0\LinqOverArray.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqOverArray\obj\Debug\net5.0\LinqOverArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqOverArray\obj\Debug\net5.0\LinqOverArray.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqOverArray\obj\Debug\net5.0\LinqOverArray.AssemblyInfo.cs
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqOverArray\obj\Debug\net5.0\LinqOverArray.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqOverArray\obj\Debug\net5.0\LinqOverArray.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqOverArray\obj\Debug\net5.0\ref\LinqOverArray.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqOverArray\obj\Debug\net5.0\LinqOverArray.pdb
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LinqOverArray\obj\Debug\net5.0\LinqOverArray.genruntimeconfig.cache
