@@ -1,0 +1,16 @@
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LINQOverArrayList\LINQOverArrayList\bin\Debug\net5.0\LINQOverArrayList.exe
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LINQOverArrayList\LINQOverArrayList\bin\Debug\net5.0\LINQOverArrayList.deps.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LINQOverArrayList\LINQOverArrayList\bin\Debug\net5.0\LINQOverArrayList.runtimeconfig.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LINQOverArrayList\LINQOverArrayList\bin\Debug\net5.0\LINQOverArrayList.runtimeconfig.dev.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LINQOverArrayList\LINQOverArrayList\bin\Debug\net5.0\LINQOverArrayList.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LINQOverArrayList\LINQOverArrayList\bin\Debug\net5.0\ref\LINQOverArrayList.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LINQOverArrayList\LINQOverArrayList\bin\Debug\net5.0\LINQOverArrayList.pdb
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LINQOverArrayList\LINQOverArrayList\obj\Debug\net5.0\LINQOverArrayList.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LINQOverArrayList\LINQOverArrayList\obj\Debug\net5.0\LINQOverArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LINQOverArrayList\LINQOverArrayList\obj\Debug\net5.0\LINQOverArrayList.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LINQOverArrayList\LINQOverArrayList\obj\Debug\net5.0\LINQOverArrayList.AssemblyInfo.cs
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LINQOverArrayList\LINQOverArrayList\obj\Debug\net5.0\LINQOverArrayList.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LINQOverArrayList\LINQOverArrayList\obj\Debug\net5.0\LINQOverArrayList.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LINQOverArrayList\LINQOverArrayList\obj\Debug\net5.0\ref\LINQOverArrayList.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LINQOverArrayList\LINQOverArrayList\obj\Debug\net5.0\LINQOverArrayList.pdb
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LINQOverArrayList\LINQOverArrayList\obj\Debug\net5.0\LINQOverArrayList.genruntimeconfig.cache
