@@ -1,0 +1,16 @@
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleGC\obj\Debug\net5.0\SimpleGC.csproj.AssemblyReference.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleGC\obj\Debug\net5.0\SimpleGC.GeneratedMSBuildEditorConfig.editorconfig
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleGC\obj\Debug\net5.0\SimpleGC.AssemblyInfoInputs.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleGC\obj\Debug\net5.0\SimpleGC.AssemblyInfo.cs
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleGC\obj\Debug\net5.0\SimpleGC.csproj.CoreCompileInputs.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleGC\bin\Debug\net5.0\SimpleGC.exe
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleGC\bin\Debug\net5.0\SimpleGC.deps.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleGC\bin\Debug\net5.0\SimpleGC.runtimeconfig.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleGC\bin\Debug\net5.0\SimpleGC.runtimeconfig.dev.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleGC\bin\Debug\net5.0\SimpleGC.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleGC\bin\Debug\net5.0\ref\SimpleGC.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleGC\bin\Debug\net5.0\SimpleGC.pdb
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleGC\obj\Debug\net5.0\SimpleGC.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleGC\obj\Debug\net5.0\ref\SimpleGC.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleGC\obj\Debug\net5.0\SimpleGC.pdb
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleGC\obj\Debug\net5.0\SimpleGC.genruntimeconfig.cache
