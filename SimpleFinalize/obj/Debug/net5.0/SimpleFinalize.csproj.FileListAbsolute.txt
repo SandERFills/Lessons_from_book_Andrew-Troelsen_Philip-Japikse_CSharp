@@ -1,0 +1,16 @@
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleFinalize\bin\Debug\net5.0\SimpleFinalize.exe
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleFinalize\bin\Debug\net5.0\SimpleFinalize.deps.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleFinalize\bin\Debug\net5.0\SimpleFinalize.runtimeconfig.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleFinalize\bin\Debug\net5.0\SimpleFinalize.runtimeconfig.dev.json
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleFinalize\bin\Debug\net5.0\SimpleFinalize.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleFinalize\bin\Debug\net5.0\ref\SimpleFinalize.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleFinalize\bin\Debug\net5.0\SimpleFinalize.pdb
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleFinalize\obj\Debug\net5.0\SimpleFinalize.csproj.AssemblyReference.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleFinalize\obj\Debug\net5.0\SimpleFinalize.GeneratedMSBuildEditorConfig.editorconfig
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleFinalize\obj\Debug\net5.0\SimpleFinalize.AssemblyInfoInputs.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleFinalize\obj\Debug\net5.0\SimpleFinalize.AssemblyInfo.cs
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleFinalize\obj\Debug\net5.0\SimpleFinalize.csproj.CoreCompileInputs.cache
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleFinalize\obj\Debug\net5.0\SimpleFinalize.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleFinalize\obj\Debug\net5.0\ref\SimpleFinalize.dll
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleFinalize\obj\Debug\net5.0\SimpleFinalize.pdb
+D:\babich\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleFinalize\obj\Debug\net5.0\SimpleFinalize.genruntimeconfig.cache
