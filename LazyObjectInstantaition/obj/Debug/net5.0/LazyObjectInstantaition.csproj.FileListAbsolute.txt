@@ -1,0 +1,16 @@
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LazyObjectInstantaition\bin\Debug\net5.0\LazyObjectInstantaition.exe
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LazyObjectInstantaition\bin\Debug\net5.0\LazyObjectInstantaition.deps.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LazyObjectInstantaition\bin\Debug\net5.0\LazyObjectInstantaition.runtimeconfig.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LazyObjectInstantaition\bin\Debug\net5.0\LazyObjectInstantaition.runtimeconfig.dev.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LazyObjectInstantaition\bin\Debug\net5.0\LazyObjectInstantaition.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LazyObjectInstantaition\bin\Debug\net5.0\ref\LazyObjectInstantaition.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LazyObjectInstantaition\bin\Debug\net5.0\LazyObjectInstantaition.pdb
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LazyObjectInstantaition\obj\Debug\net5.0\LazyObjectInstantaition.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LazyObjectInstantaition\obj\Debug\net5.0\LazyObjectInstantaition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LazyObjectInstantaition\obj\Debug\net5.0\LazyObjectInstantaition.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LazyObjectInstantaition\obj\Debug\net5.0\LazyObjectInstantaition.AssemblyInfo.cs
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LazyObjectInstantaition\obj\Debug\net5.0\LazyObjectInstantaition.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LazyObjectInstantaition\obj\Debug\net5.0\LazyObjectInstantaition.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LazyObjectInstantaition\obj\Debug\net5.0\ref\LazyObjectInstantaition.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LazyObjectInstantaition\obj\Debug\net5.0\LazyObjectInstantaition.pdb
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\LazyObjectInstantaition\obj\Debug\net5.0\LazyObjectInstantaition.genruntimeconfig.cache
