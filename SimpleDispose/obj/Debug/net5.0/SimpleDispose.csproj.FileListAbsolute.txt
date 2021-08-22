@@ -1,0 +1,16 @@
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDispose\bin\Debug\net5.0\SimpleDispose.exe
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDispose\bin\Debug\net5.0\SimpleDispose.deps.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDispose\bin\Debug\net5.0\SimpleDispose.runtimeconfig.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDispose\bin\Debug\net5.0\SimpleDispose.runtimeconfig.dev.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDispose\bin\Debug\net5.0\SimpleDispose.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDispose\bin\Debug\net5.0\ref\SimpleDispose.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDispose\bin\Debug\net5.0\SimpleDispose.pdb
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDispose\obj\Debug\net5.0\SimpleDispose.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDispose\obj\Debug\net5.0\SimpleDispose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDispose\obj\Debug\net5.0\SimpleDispose.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDispose\obj\Debug\net5.0\SimpleDispose.AssemblyInfo.cs
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDispose\obj\Debug\net5.0\SimpleDispose.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDispose\obj\Debug\net5.0\SimpleDispose.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDispose\obj\Debug\net5.0\ref\SimpleDispose.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDispose\obj\Debug\net5.0\SimpleDispose.pdb
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\SimpleDispose\obj\Debug\net5.0\SimpleDispose.genruntimeconfig.cache

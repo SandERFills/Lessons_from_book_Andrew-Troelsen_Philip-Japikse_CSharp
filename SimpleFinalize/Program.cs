@@ -15,6 +15,7 @@ namespace SimpleFinalize
               // для всех финализируемых объектов, которые // были созданы в домене этого приложения.
 Console.ReadLine ();
  MyResourceWrapper rw = new MyResourceWrapper();
+            
         }
     }
 }

@@ -1,0 +1,16 @@
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FinalizableDisposableClass\bin\Debug\net5.0\FinalizableDisposableClass.exe
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FinalizableDisposableClass\bin\Debug\net5.0\FinalizableDisposableClass.deps.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FinalizableDisposableClass\bin\Debug\net5.0\FinalizableDisposableClass.runtimeconfig.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FinalizableDisposableClass\bin\Debug\net5.0\FinalizableDisposableClass.runtimeconfig.dev.json
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FinalizableDisposableClass\bin\Debug\net5.0\FinalizableDisposableClass.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FinalizableDisposableClass\bin\Debug\net5.0\ref\FinalizableDisposableClass.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FinalizableDisposableClass\bin\Debug\net5.0\FinalizableDisposableClass.pdb
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FinalizableDisposableClass\obj\Debug\net5.0\FinalizableDisposableClass.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FinalizableDisposableClass\obj\Debug\net5.0\FinalizableDisposableClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FinalizableDisposableClass\obj\Debug\net5.0\FinalizableDisposableClass.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FinalizableDisposableClass\obj\Debug\net5.0\FinalizableDisposableClass.AssemblyInfo.cs
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FinalizableDisposableClass\obj\Debug\net5.0\FinalizableDisposableClass.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FinalizableDisposableClass\obj\Debug\net5.0\FinalizableDisposableClass.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FinalizableDisposableClass\obj\Debug\net5.0\ref\FinalizableDisposableClass.dll
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FinalizableDisposableClass\obj\Debug\net5.0\FinalizableDisposableClass.pdb
+C:\Users\salag\source\repos\Lessons_from_book_Andrew-Troelsen_Philip-Japikse_CSharp\FinalizableDisposableClass\obj\Debug\net5.0\FinalizableDisposableClass.genruntimeconfig.cache
